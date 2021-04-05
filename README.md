@@ -17,9 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=left>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%tetris8010)](https://hits.seeyoufarm.com) 
-	
-  </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetris8010)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
