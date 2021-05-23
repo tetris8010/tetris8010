@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning 
+* Javascript
+* Ptyhon
 
 <!--
 **tetris8010/tetris8010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
